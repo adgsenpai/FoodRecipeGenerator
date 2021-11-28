@@ -5,7 +5,7 @@
 1.pre [Why did i do it?](#why)<br>
 1.1 [Solving the problem steps](#solving) <br>
 2. [Installation](#install) <br>
-2.pre [OpenAI SuperSecret](#super)
+2.pre [OpenAI SuperSecret](#super) <br>
 2.1 [Deployment on Heroku](#heroku) <br>
 2.2. [Localhost deployment](#local)<br>
 3. [Original Application](#orig)<br>
