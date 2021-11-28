@@ -11,17 +11,17 @@
 3. [Original Application](#orig)<br>
 4. [Acknowlegements](#ack)<br>
 
-### Problem Statement
+## Problem Statement
 <p><a name="problem"></a>
 Find a solution to generate instructions on how to prepare a meal with any given ingredients. 
 
-##### Introduction
+## Introduction
 <a name="why"></a>
 
 Given *nth* food products and *yth* type of food products this produces instructions on how to prepare a meal with the following items <br>
 It is an interesting project to work on that encompasses skills in Full Stack Development. Dynamic generations of reactive components real time in JavaScript. Natural Language Processing within an OpenAI trained model to process the text and accomplish our Problem Statement above. Basically in summary my dummy project was just made so i can recycle assets and codebases into my commercial software - ADGSTUDIOS website is an engine in progress which will be out in the public in the future.</p>
 
-### Solving the problem steps
+## Solving the problem steps
 <p>
 <a name="solving"></a><br>
 
