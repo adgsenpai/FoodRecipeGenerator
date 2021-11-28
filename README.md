@@ -48,12 +48,15 @@ Well everything is given - **Procfile** - **Requirements.txt** just fork my repo
 </p>
 
 ## Localhost Deployment
-<p><a name="local"></a>
-well just run **app.py**! but make sure you do
-````
-pip install -r requirements.txt
-````
 
+<p><a name="local"></a>
+
+well just run **app.py!** but make sure you do
+
+```
+pip install -r requirements.txt
+```
+ 
 ## Original Application
 <p><a name="orig"></a>
 You can view original application @ <a href="https://adgstudios.co.za/apps/foodapp" >OriginalApp</a>
