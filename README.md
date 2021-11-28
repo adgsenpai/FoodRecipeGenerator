@@ -15,11 +15,9 @@ Find a solution to generate instructions on how to prepare a meal with any given
 
 ##### Introduction
 <a name="why"></a>
-<p>
+
 Given *nth* food products and *yth* type of food products this produces instructions on how to prepare a meal with the following items <br>
 It is an interesting project to work on that encompasses skills in Full Stack Development. Dynamic generations of reactive components real time in JavaScript. Natural Language Processing within an OpenAI trained model to process the text and accomplish our Problem Statement above. Basically in summary my dummy project was just made so i can recycle assets and codebases into my commercial software - ADGSTUDIOS website is an engine in progress which will be out in the public in the future.</p>
-<br>
-</p>
 
 ### Solving the problem steps
 <p>
