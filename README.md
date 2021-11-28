@@ -1,4 +1,5 @@
 
+
 # Table of contents
 1. [Problem Statement](#problem) <br>
 1.pre [Why did i do it?](#why)<br>
@@ -42,7 +43,9 @@ It is an interesting project to work on that encompasses skills in Full Stack De
 <a name="super"></a>
 
 In app.py
+
 ![image](https://user-images.githubusercontent.com/45560312/143789696-5f3ad0ed-4b7a-4aa5-a76d-fea7a9f06f36.png)
+
 just replace mysupersecret with the key from OpenAI you can find it here <a href="https://beta.openai.com/account/api-keys">OpenAI Secret Key</a>
 
 ## Heroku Deployment
