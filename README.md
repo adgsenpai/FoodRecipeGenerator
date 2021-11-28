@@ -76,6 +76,8 @@ well just run **app.py!** but make sure you do
 ```
 pip install -r requirements.txt
 ```
+
+and have replaced OpenAI secret
  
 ## Original Application
 <p><a name="orig"></a>
