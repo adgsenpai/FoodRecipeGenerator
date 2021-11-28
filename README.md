@@ -1,6 +1,14 @@
 # FoodRecipeGenerator
+##### Tech Stack
 
-<img src="https://liive.org/wp-content/uploads/2021/04/openai-logo-horizontal-gradient.jpg" height=200px>
+````
+Python, Django, SQL Server, HTML5 , CSS , SCSS, JavaScript
+````
+
+<p float="left">
+  <img src="https://simpleisbetterthancomplex.com/media/2016-08-09-how-to-deploy-django-applications-on-heroku/featured.jpg" height="200px" /> 
+  <img src="https://liive.org/wp-content/uploads/2021/04/openai-logo-horizontal-gradient.jpg" height="200px" />
+</p>
 
 # Table of contents
 1. [Problem Statement](#problem) <br>
