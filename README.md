@@ -1,4 +1,6 @@
+# FoodRecipeGenerator
 
+<img src="https://liive.org/wp-content/uploads/2021/04/openai-logo-horizontal-gradient.jpg" height=200px>
 
 # Table of contents
 1. [Problem Statement](#problem) <br>
