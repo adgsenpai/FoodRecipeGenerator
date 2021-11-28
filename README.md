@@ -61,6 +61,7 @@ You can view original application @ <a href="https://adgstudios.co.za/apps/fooda
 
 ## Acknowlegements
 <p><a name="ack"></a>
-(c) ADGSTUDIOS 2021
 
-Data is mined from **Pick n Pay Group** legally by scrapping items/products using a script made by ADGSTUDIOS which can be found Open Source (GitHub Repo) on the internet for others to do the same and create a database. Images and products copyright to respected owners.
+#### (c) ADGSTUDIOS 2021
+
+###### Data is mined from **Pick n Pay Group** legally by scrapping items/products using a script made by ADGSTUDIOS which can be found Open Source (GitHub Repo) on the internet for others to do the same and create a database. Images and products copyright to respected owners.
