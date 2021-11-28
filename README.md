@@ -1,6 +1,7 @@
-# FoodRecipeGenerator
-##### Tech Stack
+# Food Recipe Generator
+##### made with ❤️ by Ashlin Darius Govindasamy
 
+#### Tech Stack
 ````
 Python, Django, SQL Server, HTML5 , CSS , SCSS, JavaScript
 ````
